@@ -1,4 +1,3 @@
-URL information question 
 //your JS code here. If required.
 // Get the current URL
 var currentURL = window.location.href;
