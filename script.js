@@ -1,4 +1,10 @@
-javascript code for Uppercase input field 
-document.getElementById("fname").addEventListener("blur", function() {
-    this.value = this.value.toUpperCase();
-});
+URL information question 
+//your JS code here. If required.
+// Get the current URL
+var currentURL = window.location.href;
+
+// Get the length of the URL
+var urlLength = currentURL.length;
+
+// Display the result in an alert
+alert("The length of the URL is: " + urlLength);
